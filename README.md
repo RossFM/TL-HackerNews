@@ -14,6 +14,6 @@ BeautifulSoup (The chosen library for extracting data from HTML & XML)
 Requests (standard python library for making HTTP requests)
 
 ```
-pip install BeautifulSoup
-pip install Requests
+pip install beautifulsoup4
+pip install requests
 ```
